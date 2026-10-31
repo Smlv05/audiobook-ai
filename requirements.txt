@@ -1,0 +1,9 @@
+ebooklib
+beautifulsoup4
+lxml
+spacy
+pydub
+streamlit
+pandas
+scikit-learn
+matplotlib
